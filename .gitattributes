@@ -1,0 +1,1 @@
+exe/03_17_말투분석.exe filter=lfs diff=lfs merge=lfs -text
